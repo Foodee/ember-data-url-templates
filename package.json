@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "ember-cli-babel": "^7.26.11",
+    "ember-cli-uri-templates-shim": "https://git@github.com/Foodee/ember-cli-uri-templates-shim.git#18670a36e6ef3329561de637493f322d5082a6ce",
     "webpack": "^5.66.0"
   },
   "devDependencies": {
